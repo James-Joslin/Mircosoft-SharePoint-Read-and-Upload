@@ -1,0 +1,4 @@
+*.vscode
+
+Test_Powerpoints/*
+!Test_Powerpoints/.keep
